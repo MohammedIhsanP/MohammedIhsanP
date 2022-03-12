@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-Reach me on Linkedin: https://www.linkedin.com/in/mohammed-ihsan-p/
 
-![](https://komarev.com/ghpvc/?MohammedIhsanP)
+[](https://komarev.com/ghpvc/?MohammedIhsanP)
 
 <!---
 MohammedIhsanP/MohammedIhsanP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
