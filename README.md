@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">A Data Scientist whose passionate about NLP, turning data into actionable insights and meaningful stories.
+<h3 align="center">Thorough and meticulous Data Analyst passionate about helping businesses succeed. Possessing strong technical skills rooted in substantial training as an engineer. Certified Specialist in Data Science and Analytics with well-versed knowledge in Python, SQL, ML Algorithms, and Tableau.
 <h3 align="center">My Tech Stack</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50"/> </a>  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="FLASK" width="50" height="50"/> </a> </a>  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/> </a> 
 
