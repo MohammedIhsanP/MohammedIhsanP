@@ -25,7 +25,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=MohammedIhsanP&color=dc143c&style=for-the-badge)
+![]![](https://komarev.com/ghpvc/?username=MohammedIhsanP&color=blueviolet&label=Visitors)
 <!---
 MohammedIhsanP/MohammedIhsanP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
