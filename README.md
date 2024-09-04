@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Thorough and meticulous DevOps Engineer passionate about helping businesses succeed. Possessing strong technical skills rooted in substantial training as an engineer. Certified Specialist in Data Science and Analytics with well-versed knowledge in Python, SQL, ML Algorithms, and Tableau.
+<h3 align="center">Ever wondered why technology evolves and how we adapt to its rapid pace? That same curiosity drives my passion for DevOps. With over 2 years of experience in optimizing and streamlining IT operations, I've developed a deep understanding of the intricacies of software development and deployment.
 <h3 align="center">My Tech Stack</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50"/> </a>  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="FLASK" width="50" height="50"/> </a> </a>  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/> </a> 
 
@@ -16,7 +16,7 @@
 
 
 - 🌱 I’m currently learning DevOps Tools and Cloud Technologies
-- 💬 Ask me about Python, DevOps & Machine Learning!
+- 💬 Ask me about DevOps & Cloud Technologies!
 
 
 
